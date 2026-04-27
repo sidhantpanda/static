@@ -1,5 +1,6 @@
 {
     "data": {
+        "stratus": "starting-soon",
         "current": {
             "position": {
                 "latitude": 52.360464,
@@ -15,6 +16,11 @@
                 },
                 "updatedAt": "2026-04-27T10:00:00Z"
             }
+        ],
+        "available-statuses": [
+            "starting-soon",
+            "serving",
+            "finished"
         ]
     }
 }
