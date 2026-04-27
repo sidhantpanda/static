@@ -2,16 +2,16 @@
     "data": {
         "current": {
             "position": {
-                "latitude": 52.360765,
-                "longitude": 4.67963
+                "latitude": 52.360464,
+                "longitude": 4.886014
             },
             "updatedAt": "2026-04-27T10:00:00Z"
         },
         "history": [
             {
                 "position": {
-                    "latitude": 52.360765,
-                    "longitude": 4.67963
+                    "latitude": 52.360464,
+                    "longitude": 4.886014
                 },
                 "updatedAt": "2026-04-27T10:00:00Z"
             }
